@@ -11,6 +11,9 @@
 
 <p align='left'> Enthusiastic lad with a strong passion for coding and technology, thriving in challenges and creating seamless digital experiences while solving real-world problems with efficient, scalable solutions.</p>
 
+<p>Me and my friends love Claude</p>
+<h3>Claude's Plan</h3>
+
 
 
 
